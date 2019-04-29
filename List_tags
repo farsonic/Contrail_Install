@@ -1,0 +1,1 @@
+curl -s https://USERNAME:PASSWORD@hub.juniper.net/v2/contrail/contrail-external-zookeeper/tags/list 
